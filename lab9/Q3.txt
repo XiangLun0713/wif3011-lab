@@ -1,0 +1,1 @@
+The reason of including the wait(), notify() and notifyAll() methods in the Object class is to allow all the objects to be used as lock that allows us to synchronize our code and prevent race-condition.
